@@ -26,4 +26,10 @@
   <a href="https://github.com/PhotonBrowser/photon/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
+<p>
+  <a href="https://github.com/sponsors/PhotonBrowser">
+    <img src="https://img.shields.io/badge/Sponsor-PhotonBrowser-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor PhotonBrowser" />
+  </a>
+</p>
+
 <br clear="all" />
